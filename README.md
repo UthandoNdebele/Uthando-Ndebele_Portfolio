@@ -5,6 +5,12 @@ Boosting Website Performance through SEO & UX Optimization
 
 Role:
 Digital Marketing & UX Assistant — Creative Minds Media Agency + Freelance Projects
+Remote | 2024 – 
+	•	Led SEO optimization, increasing organic traffic.
+	•	Conducted heatmap testing and UX improvements to reduce bounce rate.
+	•	Ran A/B tests on landing pages, improving conversions.
+	•	Managed campaigns via Google Ads, Meta Ads, and Mailchimp.
+	•	Analyzed performance in GA & GSC; created insights reports.
 
 Problem:
 The client website had high bounce rates, low organic visibility, and underperforming landing pages. The goal was to improve traffic quality, retention, and conversion rates through strategic SEO and UX improvements.
@@ -34,6 +40,11 @@ Project Title: Lifecycle Campaign Automation to Increase Customer Retention
 
  Role:
 Sales & Marketing Consultant – Employed2020 + Freelance Projects
+In-Person | 2023 – 2024
+	•	Exceeded monthly sales targets by aligning messaging to customer profiles.
+	•	Managed CRM workflows for follow-ups and lifecycle emails.
+	•	Cold calling, email sequencing, and relationship nurturing.
+	•	Handled digital content for inbound marketing strategy.
 
 Problem:
 Many clients struggled with low repeat purchase rates and inconsistent customer engagement post-sale. The goal was to increase customer retention and lifetime value through CRM workflows and lifecycle email marketing.
@@ -68,6 +79,10 @@ Project Title: Landing Page Redesign & Frontend Optimization
 
 Role:
 Frontend Marketing Assistant [Freelance | Personal Project]
+Hybrid | 2019 – 2021
+	•	Supported influencer campaigns, press releases, and event planning.
+	•	Managed media coverage, sample send-outs, and PR tracking.
+	•	Collaborated on branded content and social captions.
 
 Problem:
 A client website had a slow-loading, poorly structured landing page that affected user retention and SEO. The goal was to rebuild the landing page with clean frontend code and improve visual hierarchy and accessibility.
